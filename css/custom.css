@@ -1,0 +1,7 @@
+#input, #output {
+   min-height: 550px;
+}
+
+button#format-btn {
+   width: 100%;
+}
